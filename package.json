@@ -4,9 +4,10 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
-    "start": "node api/server.js"
+    "start": "json-server db.json",
+    "start-local": "node api/server.js"
   },
   "dependencies": {
-    "json-server": "^0.17.4"
+    "json-server": "^1.0.0-beta.3"
   }
 }
