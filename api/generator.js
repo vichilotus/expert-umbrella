@@ -54,7 +54,7 @@ function saveToDb(data) {
 }
 
 // Generate and save data
-const numClones = 1234; // Set the number of clones as a parameter
+const numClones = 100; // Set the number of clones as a parameter
 const generatedData = generateData(numClones);
 saveToDb(generatedData);
 
