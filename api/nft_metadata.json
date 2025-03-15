@@ -1,0 +1,2581 @@
+[
+  {
+    "tokenId": 1,
+    "name": "Lion",
+    "description": "The king of the jungle, known for its strength and majestic mane.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/001.lion.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Big Cat" },
+      { "trait_type": "habitat", "value": "Savannah" },
+      { "trait_type": "abilities", "value": "Roaring, Hunting, Leadership" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "10-14 years" },
+      { "trait_type": "speed", "value": "50 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Lion",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 2,
+    "name": "Tiger",
+    "description": "A stealthy predator with iconic stripes, ruling the forests with unmatched power.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/002.tiger.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Big Cat" },
+      { "trait_type": "habitat", "value": "Forests, Swamps" },
+      { "trait_type": "abilities", "value": "Stealth, Swimming, Ambush" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "10-15 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Tiger",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 3,
+    "name": "Jaguar",
+    "description": "A sleek and powerful feline, master of the jungle with a bone-crushing bite.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/003.jaguar.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Big Cat" },
+      { "trait_type": "habitat", "value": "Rainforests, Grasslands" },
+      { "trait_type": "abilities", "value": "Climbing, Swimming, Stalking" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "12-15 years" },
+      { "trait_type": "speed", "value": "50 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Jaguar",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 4,
+    "name": "Leopard",
+    "description": "An elusive spotted cat, known for its agility and ability to drag prey up trees.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/004.leopard.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Big Cat" },
+      { "trait_type": "habitat", "value": "Forests, Deserts" },
+      { "trait_type": "abilities", "value": "Climbing, Stealth, Sprinting" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "12-17 years" },
+      { "trait_type": "speed", "value": "36 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Leopard",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 5,
+    "name": "Panda",
+    "description": "A gentle giant with a love for bamboo, cherished for its black-and-white charm.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/005.panda.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bear" },
+      { "trait_type": "habitat", "value": "Bamboo Forests" },
+      {
+        "trait_type": "abilities",
+        "value": "Climbing, Eating Bamboo, Rolling"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "15-20 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Giant_panda",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 6,
+    "name": "Polar Bear",
+    "description": "A mighty predator of the Arctic, built for survival in the harshest icy realms.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/006.polar_bear.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bear" },
+      { "trait_type": "habitat", "value": "Arctic" },
+      { "trait_type": "abilities", "value": "Swimming, Hunting, Insulation" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "15-18 years" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Polar_bear",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 7,
+    "name": "Brown Bear",
+    "description": "A massive omnivore roaming forests and mountains, known for its raw power.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/007.brown_bear.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bear" },
+      { "trait_type": "habitat", "value": "Forests, Mountains" },
+      { "trait_type": "abilities", "value": "Foraging, Climbing, Strength" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Brown_bear",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 8,
+    "name": "African Elephant",
+    "description": "The largest land animal on Earth, a symbol of wisdom and strength in the savannah.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/008.african_elephant.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Elephant" },
+      { "trait_type": "habitat", "value": "Savannah, Forests" },
+      {
+        "trait_type": "abilities",
+        "value": "Trunk Dexterity, Memory, Social Bonding"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "60-70 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/African_elephant",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 9,
+    "name": "Asian Elephant",
+    "description": "A smaller cousin of the African elephant, revered in Asian cultures for its grace.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/009.asian_elephant.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Elephant" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      {
+        "trait_type": "abilities",
+        "value": "Trunk Dexterity, Memory, Social Bonding"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "60-70 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Asian_elephant",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 10,
+    "name": "White Rhino",
+    "description": "A massive herbivore with thick skin, grazing the grasslands with ancient might.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/010.white_rhino.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Rhinoceros" },
+      { "trait_type": "habitat", "value": "Grasslands" },
+      {
+        "trait_type": "abilities",
+        "value": "Charging, Grazing, Armor-like Skin"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "40-50 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/White_rhinoceros",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 11,
+    "name": "Black Rhino",
+    "description": "A smaller, more elusive rhino, fiercely protective with a prehistoric presence.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/011.black_rihno.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Rhinoceros" },
+      { "trait_type": "habitat", "value": "Savannah, Bushlands" },
+      { "trait_type": "abilities", "value": "Charging, Browsing, Thick Skin" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "35-50 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Black_rhinoceros",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "tokenId": 12,
+    "name": "Giraffe",
+    "description": "The tallest land animal, reaching for the highest leaves with its elegant neck.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/012.giraffe.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Giraffid" },
+      { "trait_type": "habitat", "value": "Savannah" },
+      {
+        "trait_type": "abilities",
+        "value": "Long Reach, Kicking, Spotting Predators"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "25 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Giraffe",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 13,
+    "name": "Zebra",
+    "description": "A striped marvel of the plains, using its patterns to confuse predators.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/013.zebra.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Equid" },
+      { "trait_type": "habitat", "value": "Grasslands" },
+      { "trait_type": "abilities", "value": "Camouflage, Kicking, Sprinting" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "25 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Zebra",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 14,
+    "name": "Hippopotamus",
+    "description": "A massive river dweller, feared for its unpredictable aggression and powerful jaws.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/014.hippopotamus.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Hippopotamid" },
+      { "trait_type": "habitat", "value": "Rivers, Lakes" },
+      { "trait_type": "abilities", "value": "Swimming, Charging, Biting" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "40-50 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Hippopotamus",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 15,
+    "name": "Seal",
+    "description": "A sleek marine mammal, thriving in icy waters with its playful demeanor.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/015.seal.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Pinniped" },
+      { "trait_type": "habitat", "value": "Oceans, Coastal Regions" },
+      { "trait_type": "abilities", "value": "Swimming, Diving, Balancing" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Seal_(animal)",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 16,
+    "name": "Sea Lion",
+    "description": "A social marine mammal, barking loudly on rocky shores and diving with agility.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/016.sea_lion.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Pinniped" },
+      { "trait_type": "habitat", "value": "Coastal Waters" },
+      {
+        "trait_type": "abilities",
+        "value": "Swimming, Barking, Climbing Rocks"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Sea_lion",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 17,
+    "name": "Dolphin",
+    "description": "A playful and intelligent marine mammal, known for its acrobatics and social nature.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/017.dolphin.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Echolocation, Swimming, Communication"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Dolphin",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 18,
+    "name": "Blue Whale",
+    "description": "The largest animal on Earth, its haunting songs echo through the deep oceans.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/018.blue_whale.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      { "trait_type": "abilities", "value": "Singing, Diving, Migration" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "70-100 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Blue_whale",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 19,
+    "name": "Humpback Whale",
+    "description": "A majestic whale known for its acrobatic breaches and complex songs.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/019.humpback_whale.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      { "trait_type": "abilities", "value": "Breaching, Singing, Migration" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "50-100 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Humpback_whale",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 20,
+    "name": "Great White Shark",
+    "description": "A fearsome apex predator of the oceans, with unmatched speed and power.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/020.grate_white_shark.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Shark" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      { "trait_type": "abilities", "value": "Hunting, Speed, Smell Detection" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "70 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Great_white_shark",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 21,
+    "name": "Whale Shark",
+    "description": "A gentle giant of the seas, filtering plankton with its massive mouth.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/021.whale_shark.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Shark" },
+      { "trait_type": "habitat", "value": "Tropical Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Filter Feeding, Swimming, Docility"
+      },
+      { "trait_type": "diet", "value": "Planktonivore" },
+      { "trait_type": "lifespan", "value": "70-130 years" },
+      { "trait_type": "speed", "value": "3 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Whale_shark",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 22,
+    "name": "Penguin",
+    "description": "A flightless bird thriving in icy waters, waddling with charming elegance.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/022.penguin.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Antarctic, Coastal Regions" },
+      { "trait_type": "abilities", "value": "Swimming, Diving, Insulation" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "15-20 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Penguin",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 23,
+    "name": "Eagle",
+    "description": "A majestic bird of prey, soaring high with razor-sharp vision and talons.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/023.eagle.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Mountains, Forests" },
+      { "trait_type": "abilities", "value": "Flying, Hunting, Vision" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "100 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Eagle",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 24,
+    "name": "Owl",
+    "description": "A silent hunter of the night, with piercing eyes and ghostly flight.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/024.owl.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Forests, Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Silent Flight, Night Vision, Hunting"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "10-20 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Owl",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 25,
+    "name": "Peacock",
+    "description": "A vibrant bird with an iridescent tail, displaying beauty in every feather.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/025.peacock.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Display, Flying, Foraging" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "15-20 years" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Peafowl",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 26,
+    "name": "Flamingo",
+    "description": "A tall, pink wader, standing gracefully in shallow waters with elegance.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/026.flamingo.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Lakes, Lagoons" },
+      {
+        "trait_type": "abilities",
+        "value": "Filter Feeding, Standing, Flying"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "30-50 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Flamingo",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 27,
+    "name": "Parrot",
+    "description": "A colorful bird with a sharp beak, mimicking sounds in tropical forests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/027.parrot.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      { "trait_type": "abilities", "value": "Mimicry, Flying, Climbing" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "50-80 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Parrot",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 28,
+    "name": "Hummingbird",
+    "description": "A tiny jewel of the skies, hovering with rapid wings while sipping nectar.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/028.hummingbird.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Forests, Gardens" },
+      { "trait_type": "abilities", "value": "Hovering, Agility, Speed" },
+      { "trait_type": "diet", "value": "Nectarivore" },
+      { "trait_type": "lifespan", "value": "3-5 years" },
+      { "trait_type": "speed", "value": "60 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Hummingbird",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 29,
+    "name": "Kangaroo",
+    "description": "A hopping marsupial of the outback, packing a punch with its strong legs.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/029.kangaroo.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Marsupial" },
+      { "trait_type": "habitat", "value": "Grasslands, Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Hopping, Kicking, Pouch Carrying"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "6-20 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Kangaroo",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 30,
+    "name": "Koala",
+    "description": "A cuddly marsupial clinging to eucalyptus trees, sleeping most of the day.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/030.koala.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Marsupial" },
+      { "trait_type": "habitat", "value": "Eucalyptus Forests" },
+      { "trait_type": "abilities", "value": "Climbing, Sleeping, Detoxifying" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-15 years" },
+      { "trait_type": "speed", "value": "2 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Koala",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 31,
+    "name": "Wallaby",
+    "description": "A smaller cousin of the kangaroo, bounding through the Australian scrublands.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/031.wallaby.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Marsupial" },
+      { "trait_type": "habitat", "value": "Grasslands, Forests" },
+      { "trait_type": "abilities", "value": "Hopping, Grazing, Agility" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "5-15 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Wallaby",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 32,
+    "name": "Wombat",
+    "description": "A burrowing marsupial with a tough build, digging through the Australian earth.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/032.wombat.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Marsupial" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Digging, Grazing, Toughness" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "5-15 years" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Wombat",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 33,
+    "name": "King Cobra",
+    "description": "A venomous serpent with a deadly hood, striking fear into tropical jungles.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/033.king_cobra.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Snake" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      {
+        "trait_type": "abilities",
+        "value": "Venomous Bite, Hooding, Slithering"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20 years" },
+      { "trait_type": "speed", "value": "12 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/King_cobra",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 34,
+    "name": "Python",
+    "description": "A massive constrictor, squeezing its prey with raw power in dense jungles.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/034.python.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Snake" },
+      { "trait_type": "habitat", "value": "Rainforests, Swamps" },
+      { "trait_type": "abilities", "value": "Constricting, Climbing, Ambush" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Python_(genus)",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 35,
+    "name": "Komodo Dragon",
+    "description": "A fearsome lizard with a venomous bite, ruling the islands like a living dinosaur.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/035.komodo.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Lizard" },
+      { "trait_type": "habitat", "value": "Islands, Grasslands" },
+      { "trait_type": "abilities", "value": "Venomous Bite, Hunting, Digging" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "30 years" },
+      { "trait_type": "speed", "value": "12 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Komodo_dragon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 36,
+    "name": "Crocodile",
+    "description": "A stealthy aquatic predator, lurking in rivers with bone-crushing jaws.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/036.crocodile.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Reptile" },
+      { "trait_type": "habitat", "value": "Rivers, Wetlands" },
+      { "trait_type": "abilities", "value": "Ambush, Swimming, Biting" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "70 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Crocodile",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 37,
+    "name": "Nile Crocodile",
+    "description": "A legendary predator of African rivers, feared for its size and ferocity.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/037.nile_crocodile.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Reptile" },
+      { "trait_type": "habitat", "value": "Rivers, Lakes" },
+      { "trait_type": "abilities", "value": "Ambush, Swimming, Biting" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "70-100 years" },
+      { "trait_type": "speed", "value": "22 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Nile_crocodile",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 38,
+    "name": "Alligator",
+    "description": "A broad-snouted reptile, thriving in swamps with a patient, deadly strike.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/038.alligator.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Reptile" },
+      { "trait_type": "habitat", "value": "Swamps, Rivers" },
+      { "trait_type": "abilities", "value": "Ambush, Swimming, Biting" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "50 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Alligator",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 39,
+    "name": "Turtle",
+    "description": "A slow-moving reptile with a sturdy shell, thriving in oceans and on land.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/039.turtle.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Reptile" },
+      { "trait_type": "habitat", "value": "Oceans, Beaches" },
+      {
+        "trait_type": "abilities",
+        "value": "Swimming, Longevity, Shell Protection"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "50-100 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Turtle",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 40,
+    "name": "Tortoise",
+    "description": "A land-dwelling reptile with a heavy shell, embodying patience and wisdom.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/040.tortoise.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Reptile" },
+      { "trait_type": "habitat", "value": "Deserts, Grasslands" },
+      {
+        "trait_type": "abilities",
+        "value": "Longevity, Shell Protection, Digging"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "50-150 years" },
+      { "trait_type": "speed", "value": "0.5 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Tortoise",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 41,
+    "name": "Dart Frog",
+    "description": "A tiny, brightly colored amphibian with a toxic touch, hopping through rainforests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/041.dart_frog.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Amphibian" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      { "trait_type": "abilities", "value": "Toxicity, Jumping, Camouflage" },
+      { "trait_type": "diet", "value": "Insectivore" },
+      { "trait_type": "lifespan", "value": "3-15 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Poison_dart_frog",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 42,
+    "name": "Green Frog",
+    "description": "A vibrant amphibian croaking by ponds, blending into the lush greenery.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/042.green_frog.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Amphibian" },
+      { "trait_type": "habitat", "value": "Ponds, Wetlands" },
+      { "trait_type": "abilities", "value": "Jumping, Swimming, Camouflage" },
+      { "trait_type": "diet", "value": "Insectivore" },
+      { "trait_type": "lifespan", "value": "5-10 years" },
+      { "trait_type": "speed", "value": "5 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Green_frog",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 43,
+    "name": "Butterfly",
+    "description": "A delicate insect with colorful wings, fluttering through gardens in the sunlight.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/043.butterfly.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Insect" },
+      { "trait_type": "habitat", "value": "Gardens, Forests" },
+      { "trait_type": "abilities", "value": "Flying, Camouflage, Pollination" },
+      { "trait_type": "diet", "value": "Nectarivore" },
+      { "trait_type": "lifespan", "value": "1 month" },
+      { "trait_type": "speed", "value": "12 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Butterfly",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 44,
+    "name": "Honeybee",
+    "description": "A hardworking pollinator, buzzing tirelessly to produce honey in its hive.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/044.honeybee.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Insect" },
+      { "trait_type": "habitat", "value": "Hives, Gardens" },
+      {
+        "trait_type": "abilities",
+        "value": "Pollination, Honey Production, Stinging"
+      },
+      { "trait_type": "diet", "value": "Nectarivore" },
+      { "trait_type": "lifespan", "value": "6 weeks" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Honey_bee",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 45,
+    "name": "Ant",
+    "description": "A tiny but mighty insect, working in colonies with incredible strength and teamwork.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/045.ant.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Insect" },
+      { "trait_type": "habitat", "value": "Soil, Forests" },
+      {
+        "trait_type": "abilities",
+        "value": "Lifting, Colony Building, Communication"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "1-3 years" },
+      { "trait_type": "speed", "value": "3 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Ant",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 46,
+    "name": "Tarantula",
+    "description": "A large, hairy spider with a fearsome look, weaving webs in dark corners.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/046.tarantula.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Arachnid" },
+      { "trait_type": "habitat", "value": "Deserts, Forests" },
+      {
+        "trait_type": "abilities",
+        "value": "Web Spinning, Venomous Bite, Stealth"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "10-25 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Tarantula",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 47,
+    "name": "Beetle",
+    "description": "A tough insect with a shiny shell, scuttling through forests and fields.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/047.beetle.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Insect" },
+      { "trait_type": "habitat", "value": "Forests, Fields" },
+      { "trait_type": "abilities", "value": "Flying, Burrowing, Camouflage" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "1-3 years" },
+      { "trait_type": "speed", "value": "2 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Beetle",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 48,
+    "name": "Octopus",
+    "description": "A clever cephalopod with eight arms, mastering camouflage in the ocean depths.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/048.octopus.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cephalopod" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Camouflage, Intelligence, Ink Spray"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "1-5 years" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Octopus",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 49,
+    "name": "Squid",
+    "description": "A fast-swimming cephalopod with tentacles, thriving in the open ocean.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/049.squid.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cephalopod" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Jet Propulsion, Ink Spray, Camouflage"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "1-3 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Squid",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 50,
+    "name": "Starfish",
+    "description": "A spiny sea star, regenerating limbs while clinging to ocean rocks.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/050.starfish.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Echinoderm" },
+      { "trait_type": "habitat", "value": "Oceans, Coral Reefs" },
+      {
+        "trait_type": "abilities",
+        "value": "Regeneration, Clinging, Slow Movement"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "35 years" },
+      { "trait_type": "speed", "value": "0.02 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Starfish",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 51,
+    "name": "Crab",
+    "description": "A sideways-walking crustacean, thriving on beaches with its sturdy claws.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/051.crab.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Crustacean" },
+      { "trait_type": "habitat", "value": "Beaches, Oceans" },
+      { "trait_type": "abilities", "value": "Pinching, Scavenging, Burrowing" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "3-10 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Crab",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 52,
+    "name": "Lobster",
+    "description": "A deep-sea crustacean with powerful claws, scavenging the ocean floor.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/052.lobster.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Crustacean" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      { "trait_type": "abilities", "value": "Pinching, Scavenging, Armor" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "50 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Lobster",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 53,
+    "name": "Seahorse",
+    "description": "A tiny marvel of the ocean, curling its tail around coral with delicate grace.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/053.seahorse.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Fish" },
+      { "trait_type": "habitat", "value": "Coral Reefs, Seagrass" },
+      {
+        "trait_type": "abilities",
+        "value": "Camouflage, Tail Curling, Male Pregnancy"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "1-5 years" },
+      { "trait_type": "speed", "value": "0.01 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Seahorse",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 54,
+    "name": "Clownfish",
+    "description": "A bright orange fish living among anemones, immune to their stings.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/054.clownfish.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Fish" },
+      { "trait_type": "habitat", "value": "Coral Reefs" },
+      { "trait_type": "abilities", "value": "Symbiosis, Swimming, Camouflage" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "6-10 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Clownfish",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 55,
+    "name": "Hammerhead Shark",
+    "description": "A unique shark with a hammer-shaped head, hunting with enhanced senses.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/055.hammerhead_shark.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Shark" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      { "trait_type": "abilities", "value": "Enhanced Senses, Hunting, Speed" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Hammerhead_shark",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 56,
+    "name": "Manta Ray",
+    "description": "A graceful giant of the sea, gliding through oceans with wing-like fins.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/056.manta_ray.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Ray" },
+      { "trait_type": "habitat", "value": "Tropical Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Filter Feeding, Gliding, Jumping"
+      },
+      { "trait_type": "diet", "value": "Planktonivore" },
+      { "trait_type": "lifespan", "value": "50 years" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Manta_ray",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 57,
+    "name": "Wild Boar",
+    "description": "A bristly mammal with sharp tusks, foraging aggressively in forests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/057.wild_boar.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Charging, Foraging, Tusking" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "10-14 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Wild_boar",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 58,
+    "name": "Antelope",
+    "description": "A swift grazer of the plains, leaping gracefully to evade predators.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/058.antelope.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Grasslands, Savannah" },
+      { "trait_type": "abilities", "value": "Leaping, Running, Grazing" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-25 years" },
+      { "trait_type": "speed", "value": "55 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Antelope",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 59,
+    "name": "Bison",
+    "description": "A massive herbivore of the plains, charging with unstoppable force.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/059.bison.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Grasslands" },
+      { "trait_type": "abilities", "value": "Charging, Grazing, Endurance" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-20 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Bison",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 60,
+    "name": "Mountain Goat",
+    "description": "A sure-footed climber of rugged peaks, defying gravity with ease.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/060.mountain_goat.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Mountains" },
+      { "trait_type": "abilities", "value": "Climbing, Jumping, Grazing" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "12-15 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Mountain_goat",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 61,
+    "name": "Sheep",
+    "description": "A woolly grazer of the hills, known for its thick fleece and herd instincts.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/061.sheep.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Grasslands, Hills" },
+      {
+        "trait_type": "abilities",
+        "value": "Grazing, Fleeing, Wool Production"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-12 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Sheep",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 62,
+    "name": "Goat",
+    "description": "A nimble climber of rocky terrains, known for its stubborn grit and sharp horns.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/062.goat.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Mountains, Farms" },
+      { "trait_type": "abilities", "value": "Climbing, Grazing, Butting" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "15-18 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Goat",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 63,
+    "name": "Camel",
+    "description": "A desert survivor with humps for sustenance, trekking across scorching sands.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/063.camel.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Endurance, Water Storage, Trekking"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "40-50 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Camel",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 64,
+    "name": "Dromedary",
+    "description": "A single-humped camel, built for desert endurance with a proud stride.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/064.dromedary.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Endurance, Water Storage, Trekking"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "40-50 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Dromedary",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 65,
+    "name": "Wolf",
+    "description": "A cunning pack hunter of the wild, its haunting howl echoes through moonlit forests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/065.wolf.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Canine" },
+      { "trait_type": "habitat", "value": "Forests, Tundra" },
+      { "trait_type": "abilities", "value": "Hunting, Howling, Pack Tactics" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "6-8 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Wolf",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 66,
+    "name": "Fox",
+    "description": "A sly predator with a fiery coat, stalking silently through twilight woods.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/066.fox.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Canine" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Stealth, Hunting, Digging" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "3-6 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Fox",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 67,
+    "name": "Raccoon",
+    "description": "A clever scavenger with a bandit mask, thriving in both wild and urban shadows.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/067.raccoon.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Forests, Urban Areas" },
+      { "trait_type": "abilities", "value": "Climbing, Scavenging, Dexterity" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "2-5 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Raccoon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 68,
+    "name": "Ferret",
+    "description": "A sleek and curious predator, weaving through burrows with playful mischief.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/068.ferret.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Grasslands, Forests" },
+      { "trait_type": "abilities", "value": "Burrowing, Hunting, Agility" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "6-10 years" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Ferret",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 69,
+    "name": "Otter",
+    "description": "A joyful swimmer of rivers and seas, cracking clams with rocks in playful dance.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/069.otter.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Rivers, Coasts" },
+      { "trait_type": "abilities", "value": "Swimming, Tool Use, Diving" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "10-15 years" },
+      { "trait_type": "speed", "value": "7 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Otter",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 70,
+    "name": "Beaver",
+    "description": "A diligent architect of rivers, felling trees to craft dams with precision.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/070.beaver.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Rivers, Lakes" },
+      { "trait_type": "abilities", "value": "Dam Building, Gnawing, Swimming" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-15 years" },
+      { "trait_type": "speed", "value": "5 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Beaver",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 71,
+    "name": "Mole",
+    "description": "A velvet-furred digger of the underworld, carving tunnels with powerful paws.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/071.mole.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Underground, Fields" },
+      { "trait_type": "abilities", "value": "Digging, Sensing, Burrowing" },
+      { "trait_type": "diet", "value": "Insectivore" },
+      { "trait_type": "lifespan", "value": "3-6 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Mole_(animal)",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 72,
+    "name": "Porcupine",
+    "description": "A spiky rodent armed with quills, waddling through forests with quiet defense.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/072.porcupine.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Forests, Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Quill Defense, Climbing, Foraging"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "5-10 years" },
+      { "trait_type": "speed", "value": "2 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Porcupine",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 73,
+    "name": "Rabbit",
+    "description": "A swift hopper with twitching ears, darting through meadows and burrows.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/073.rabbit.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Fields, Forests" },
+      { "trait_type": "abilities", "value": "Hopping, Digging, Alertness" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "8-12 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Rabbit",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 74,
+    "name": "Squirrel",
+    "description": "A nimble acrobat of the treetops, stashing nuts with frantic precision.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/074.squirrel.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Forests, Urban Areas" },
+      { "trait_type": "abilities", "value": "Climbing, Leaping, Hoarding" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "5-10 years" },
+      { "trait_type": "speed", "value": "12 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Squirrel",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 75,
+    "name": "Gorilla",
+    "description": "A mighty primate of the jungle, its silverback commanding respect in misty forests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/075.gorilla.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Primate" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      {
+        "trait_type": "abilities",
+        "value": "Strength, Social Bonding, Foraging"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "35-40 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Gorilla",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "tokenId": 76,
+    "name": "Chimpanzee",
+    "description": "A witty ape crafting tools in the canopy, its laughter echoing through the jungle.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/076.chimpanzee.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Primate" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      { "trait_type": "abilities", "value": "Tool Use, Socializing, Climbing" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "40-60 years" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Chimpanzee",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 77,
+    "name": "Orangutan",
+    "description": "A solitary red ape swinging through treetops, its wisdom etched in every slow move.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/077.orangutan.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Primate" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      {
+        "trait_type": "abilities",
+        "value": "Climbing, Foraging, Intelligence"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "30-40 years" },
+      { "trait_type": "speed", "value": "6 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Orangutan",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "tokenId": 78,
+    "name": "Baboon",
+    "description": "A brash primate with a colorful snout, barking orders in the dusty savannah.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/078.baboon.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Primate" },
+      { "trait_type": "habitat", "value": "Savannah, Forests" },
+      { "trait_type": "abilities", "value": "Socializing, Foraging, Climbing" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "30 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Baboon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 79,
+    "name": "Gibbon",
+    "description": "A lithe ape with a haunting song, gliding through the forest canopy with ease.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/079.gibbon.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Primate" },
+      { "trait_type": "habitat", "value": "Forests" },
+      { "trait_type": "abilities", "value": "Brachiation, Singing, Agility" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "25-30 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Gibbon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 80,
+    "name": "Bat",
+    "description": "A winged nocturnal hunter, its wings slicing through the night with eerie precision.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/080.bat.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Caves, Forests" },
+      { "trait_type": "abilities", "value": "Echolocation, Flying, Hanging" },
+      { "trait_type": "diet", "value": "Insectivore" },
+      { "trait_type": "lifespan", "value": "20 years" },
+      { "trait_type": "speed", "value": "60 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Bat",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 81,
+    "name": "Amazon Dolphin",
+    "description": "A mystic pink dolphin of the Amazon, weaving through murky rivers with grace.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/081.amazon_dolphin.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Rivers" },
+      {
+        "trait_type": "abilities",
+        "value": "Echolocation, Swimming, Socializing"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "30 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Amazon_river_dolphin",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 82,
+    "name": "Hector's Dolphin",
+    "description": "A petite dolphin with a rounded fin, darting through New Zealand's coastal shallows.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/082.dolphin.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Coastal Waters" },
+      {
+        "trait_type": "abilities",
+        "value": "Echolocation, Agility, Social Behavior"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "15-20 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Hector%27s_dolphin",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 83,
+    "name": "Walrus",
+    "description": "A tusked titan of the Arctic, lounging on ice floes with a bellowing roar.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/083.walrus.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Pinniped" },
+      { "trait_type": "habitat", "value": "Arctic Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Diving, Tusk Use, Blubber Insulation"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "30 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Walrus",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 84,
+    "name": "Narwhal",
+    "description": "A mystical whale with a spiraled tusk, piercing the icy Arctic seas.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/084.narwhal.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Arctic Oceans" },
+      { "trait_type": "abilities", "value": "Tusk Use, Diving, Socializing" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "50 years" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Narwhal",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 85,
+    "name": "Orca",
+    "description": "A black-and-white apex predator, its pod hunting with deadly coordination.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/085.orca.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Hunting, Socializing, Echolocation"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "50-80 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Epic" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Orca",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Data Deficient"
+  },
+  {
+    "tokenId": 86,
+    "name": "Maui Dolphin",
+    "description": "A rare diminutive dolphin, its rounded fin slicing through New Zealand waves.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/086.maui_dolphin.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Cetacean" },
+      { "trait_type": "habitat", "value": "Coastal Waters" },
+      {
+        "trait_type": "abilities",
+        "value": "Echolocation, Swimming, Socializing"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/M%C4%81ui_dolphin",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "tokenId": 87,
+    "name": "Monarch Butterfly",
+    "description": "A vibrant traveler with wings of flame, migrating across continents in a delicate dance.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/087.monarch_butterfly.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Insect" },
+      { "trait_type": "habitat", "value": "Fields, Forests" },
+      { "trait_type": "abilities", "value": "Migration, Flying, Camouflage" },
+      { "trait_type": "diet", "value": "Nectarivore" },
+      { "trait_type": "lifespan", "value": "2-6 months" },
+      { "trait_type": "speed", "value": "12 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Monarch_butterfly",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 88,
+    "name": "Samurai Cat",
+    "description": "A feline warrior with a katana, its whiskers sharp as its blade in ancient Japan.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/088.samurai_cat.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Feline" },
+      { "trait_type": "habitat", "value": "Feudal Japan" },
+      { "trait_type": "abilities", "value": "Swordplay, Stealth, Agility" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "45 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 89,
+    "name": "Husky",
+    "description": "A loyal sled dog with icy blue eyes, racing through snow with boundless spirit.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/089.husky.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Canine" },
+      { "trait_type": "habitat", "value": "Arctic, Tundra" },
+      { "trait_type": "abilities", "value": "Endurance, Pulling, Howling" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "12-15 years" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Husky",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Not Evaluated"
+  },
+  {
+    "tokenId": 90,
+    "name": "Tentacule",
+    "description": "An eldritch horror from the abyss, its tentacles glowing with an otherworldly light.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/090.tentacule.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Cephalopod" },
+      { "trait_type": "habitat", "value": "Abyssal Depths" },
+      {
+        "trait_type": "abilities",
+        "value": "Bioluminescence, Grappling, Stealth"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "Unknown" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 91,
+    "name": "Pepe",
+    "description": "A mischievous frog with a meme-worthy grin, hopping through the internet's wild swamps.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/091.pepe.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Amphibian" },
+      { "trait_type": "habitat", "value": "Digital Realms" },
+      {
+        "trait_type": "abilities",
+        "value": "Memetic Influence, Hopping, Smirking"
+      },
+      { "trait_type": "diet", "value": "Memes" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "5 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 92,
+    "name": "Pepe Samurai",
+    "description": "A frog warrior clad in samurai armor, wielding a katana with memetic honor.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/092.pepe_samurai.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Amphibian" },
+      { "trait_type": "habitat", "value": "Digital Feudal Japan" },
+      {
+        "trait_type": "abilities",
+        "value": "Swordplay, Hopping, Memetic Mastery"
+      },
+      { "trait_type": "diet", "value": "Memes" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 93,
+    "name": "Mammoth",
+    "description": "A shaggy titan of the Ice Age, its tusks carving paths through frozen tundras.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/093.mammoth.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Tundra" },
+      {
+        "trait_type": "abilities",
+        "value": "Trunk Dexterity, Tusk Use, Endurance"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "60-80 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Extinct" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Mammoth",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Extinct"
+  },
+  {
+    "tokenId": 94,
+    "name": "Sabertooth",
+    "description": "A prehistoric feline with dagger-like fangs, stalking through ancient plains.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/094.sabertooth.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Grasslands" },
+      { "trait_type": "abilities", "value": "Hunting, Biting, Ambush" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-40 years" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Extinct" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Smilodon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Extinct"
+  },
+  {
+    "tokenId": 95,
+    "name": "Terror Bird",
+    "description": "A towering predator of ancient lands, its beak a weapon of swift destruction.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/095.terror_bird.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Grasslands" },
+      { "trait_type": "abilities", "value": "Running, Striking, Hunting" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Extinct" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Phorusrhacidae",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Extinct"
+  },
+  {
+    "tokenId": 96,
+    "name": "Kakapo",
+    "description": "A nocturnal parrot with a waddling gait, climbing trees in New Zealand's dark forests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/096.kakapo.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Forests" },
+      {
+        "trait_type": "abilities",
+        "value": "Climbing, Camouflage, Night Activity"
+      },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "60-90 years" },
+      { "trait_type": "speed", "value": "1 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Kakapo",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Critically Endangered"
+  },
+  {
+    "tokenId": 97,
+    "name": "Dodo",
+    "description": "A plump, flightless bird of Mauritius, its trusting nature led to its untimely end.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/097.dodo.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Forests" },
+      { "trait_type": "abilities", "value": "Foraging, Waddling, Nesting" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-30 years" },
+      { "trait_type": "speed", "value": "2 mph" },
+      { "trait_type": "rarity", "value": "Extinct" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Dodo",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Extinct"
+  },
+  {
+    "tokenId": 98,
+    "name": "Tasmanian Devil",
+    "description": "A feisty marsupial with a bone-crushing bite, snarling through the Tasmanian night.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/098.tasmanian_devil.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Marsupial" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Biting, Scavenging, Screaming" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "5-8 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Tasmanian_devil",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Endangered"
+  },
+  {
+    "tokenId": 99,
+    "name": "Platypus",
+    "description": "A bizarre egg-laying mammal with a duckbill, paddling through Australian streams.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/099.platypus.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Monotreme" },
+      { "trait_type": "habitat", "value": "Rivers, Streams" },
+      {
+        "trait_type": "abilities",
+        "value": "Electroreception, Swimming, Venomous Spur"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "10-15 years" },
+      { "trait_type": "speed", "value": "3 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Platypus",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 100,
+    "name": "Echidna",
+    "description": "A spiny monotreme snuffling through the outback, uncovering insects with its snout.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/100.echidna.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Monotreme" },
+      { "trait_type": "habitat", "value": "Forests, Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Digging, Sniffing, Spiny Defense"
+      },
+      { "trait_type": "diet", "value": "Insectivore" },
+      { "trait_type": "lifespan", "value": "15-50 years" },
+      { "trait_type": "speed", "value": "2 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Echidna",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 101,
+    "name": "Quokka",
+    "description": "A small marsupial with a perpetual smile, hopping cheerfully on Australian islands.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/101.quokka.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Marsupial" },
+      { "trait_type": "habitat", "value": "Islands, Forests" },
+      { "trait_type": "abilities", "value": "Hopping, Foraging, Socializing" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10 years" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Quokka",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 102,
+    "name": "Kiwi",
+    "description": "A flightless bird with a long beak, sniffing through New Zealand's underbrush at night.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/102.kiwi.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Forests" },
+      {
+        "trait_type": "abilities",
+        "value": "Sniffing, Foraging, Night Activity"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "25-50 years" },
+      { "trait_type": "speed", "value": "2 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Kiwi_(bird)",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 103,
+    "name": "Emu",
+    "description": "A towering flightless bird, sprinting across the Australian outback with powerful legs.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/103.emu.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Grasslands, Deserts" },
+      { "trait_type": "abilities", "value": "Running, Kicking, Foraging" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "10-20 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Emu",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 104,
+    "name": "Ostrich",
+    "description": "The world's largest bird, dashing across African plains with thunderous strides.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/104.ostrich.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Savannah, Deserts" },
+      { "trait_type": "abilities", "value": "Running, Kicking, Foraging" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "30-40 years" },
+      { "trait_type": "speed", "value": "45 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Ostrich",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 105,
+    "name": "Cassowary",
+    "description": "A fierce flightless bird with a deadly kick, lurking in the rainforests of New Guinea.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/105.cassowary.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      { "trait_type": "abilities", "value": "Kicking, Running, Camouflage" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "40-60 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Cassowary",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 106,
+    "name": "Albatross",
+    "description": "A majestic seabird with the widest wingspan, soaring endlessly over ocean waves.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/106.albatross.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Oceans" },
+      {
+        "trait_type": "abilities",
+        "value": "Gliding, Diving, Long-Distance Travel"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "50-70 years" },
+      { "trait_type": "speed", "value": "50 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Albatross",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 107,
+    "name": "Frigatebird",
+    "description": "A pirate of the skies, snatching prey mid-flight with its forked tail and sharp beak.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/107.frigatebird.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Oceans, Tropical Islands" },
+      {
+        "trait_type": "abilities",
+        "value": "Soaring, Kleptoparasitism, Diving"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "30 years" },
+      { "trait_type": "speed", "value": "95 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Frigatebird",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 108,
+    "name": "Peregrine Falcon",
+    "description": "The fastest bird alive, diving at breakneck speeds to snatch prey mid-air.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/108.peregrine_falcon.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Mountains, Cities" },
+      { "trait_type": "abilities", "value": "Diving, Hunting, Speed" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "15-20 years" },
+      { "trait_type": "speed", "value": "240 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Peregrine_falcon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 109,
+    "name": "Harpy Eagle",
+    "description": "A rainforest terror with talons like daggers, snatching sloths from the canopy.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/109.harpy_eagle.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Rainforests" },
+      { "trait_type": "abilities", "value": "Hunting, Flying, Talon Grip" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "25-35 years" },
+      { "trait_type": "speed", "value": "50 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Harpy_eagle",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 110,
+    "name": "Vulture",
+    "description": "A grim scavenger of the skies, circling high above deserts in search of carrion.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/110.vulture.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Deserts, Savannah" },
+      { "trait_type": "abilities", "value": "Soaring, Scavenging, Keen Sight" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "20-30 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Vulture",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 111,
+    "name": "Hyena",
+    "description": "A cackling scavenger of the savannah, its jaws crushing bones with eerie laughter.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/111.hyena.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Savannah, Deserts" },
+      { "trait_type": "abilities", "value": "Hunting, Scavenging, Laughing" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "12-25 years" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Hyena",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 112,
+    "name": "Jackal",
+    "description": "A cunning opportunist of the wild, scavenging and hunting in the twilight hours.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/112.jackal.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Canine" },
+      { "trait_type": "habitat", "value": "Savannah, Deserts" },
+      {
+        "trait_type": "abilities",
+        "value": "Hunting, Scavenging, Pack Tactics"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "8-12 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Jackal",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 113,
+    "name": "Wolverine",
+    "description": "A ferocious mustelid with a fierce bite, tearing through the Arctic wilderness.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/113.wolverine.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Tundra, Forests" },
+      { "trait_type": "abilities", "value": "Biting, Climbing, Endurance" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "7-12 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Wolverine",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 114,
+    "name": "Badger",
+    "description": "A stout burrower with a fearless streak, digging through earth with powerful claws.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/114.badger.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Digging, Fighting, Foraging" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "10-15 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Badger",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 115,
+    "name": "Skunk",
+    "description": "A black-and-white trickster with a noxious spray, waddling through forests at dusk.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/115.skunk.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Forests, Grasslands" },
+      { "trait_type": "abilities", "value": "Spraying, Foraging, Digging" },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "3-7 years" },
+      { "trait_type": "speed", "value": "10 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Skunk",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 116,
+    "name": "Weasel",
+    "description": "A tiny predator with a relentless spirit, slipping through grass in search of prey.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/116.weasel.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Grasslands, Forests" },
+      { "trait_type": "abilities", "value": "Hunting, Agility, Burrowing" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "1-3 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Common" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Weasel",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 117,
+    "name": "Arctic Fox",
+    "description": "A ghostly white predator of the tundra, blending into snow with cunning grace.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/117.arctic_fox.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Canine" },
+      { "trait_type": "habitat", "value": "Arctic Tundra" },
+      { "trait_type": "abilities", "value": "Camouflage, Hunting, Endurance" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "3-6 years" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Arctic_fox",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
+  },
+  {
+    "tokenId": 118,
+    "name": "Snow Leopard",
+    "description": "A phantom of the Himalayas, its spotted coat blending into rocky cliffs.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/118.snow_leopard.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Big Cat" },
+      { "trait_type": "habitat", "value": "Mountains" },
+      { "trait_type": "abilities", "value": "Stealth, Climbing, Hunting" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "15-18 years" },
+      { "trait_type": "speed", "value": "35 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Snow_leopard",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Vulnerable"
+  },
+  {
+    "tokenId": 119,
+    "name": "Ibex",
+    "description": "A mountain goat with curved horns, leaping across sheer cliffs with fearless precision.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/119.ibex.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Mountains" },
+      { "trait_type": "abilities", "value": "Climbing, Leaping, Grazing" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-18 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Uncommon" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Ibex",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Varies by Species"
+  },
+  {
+    "tokenId": 120,
+    "name": "Markhor",
+    "description": "A majestic goat with spiraled horns, scaling the rugged peaks of Central Asia.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/120.markhor.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mammal" },
+      { "trait_type": "habitat", "value": "Mountains" },
+      { "trait_type": "abilities", "value": "Climbing, Grazing, Horn Display" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "10-13 years" },
+      { "trait_type": "speed", "value": "15 mph" },
+      { "trait_type": "rarity", "value": "Rare" }
+    ],
+    "external_url": "https://en.wikipedia.org/wiki/Markhor",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Near Threatened"
+  },
+  {
+    "tokenId": 121,
+    "name": "Gryphon",
+    "description": "A mythical beast with the body of a lion and wings of an eagle, soaring over ancient realms.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/121.gryphon.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Creature" },
+      { "trait_type": "habitat", "value": "Legendary Skies" },
+      { "trait_type": "abilities", "value": "Flying, Hunting, Majesty" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "60 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 122,
+    "name": "Phoenix",
+    "description": "A fiery bird reborn from ashes, its wings blazing with the light of eternal renewal.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/122.phoenix.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Bird" },
+      { "trait_type": "habitat", "value": "Flames of Eternity" },
+      {
+        "trait_type": "abilities",
+        "value": "Rebirth, Fire Manipulation, Flight"
+      },
+      { "trait_type": "diet", "value": "Unknown" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "100 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 123,
+    "name": "Dragon",
+    "description": "A colossal winged serpent with scales of steel, breathing fire over ancient lands.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/123.dragon.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Reptile" },
+      { "trait_type": "habitat", "value": "Mythical Mountains" },
+      {
+        "trait_type": "abilities",
+        "value": "Fire Breathing, Flying, Hoarding"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "80 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 124,
+    "name": "Unicorn",
+    "description": "A graceful equine with a shimmering horn, galloping through enchanted forests.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/124.unicorn.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Equine" },
+      { "trait_type": "habitat", "value": "Enchanted Forests" },
+      { "trait_type": "abilities", "value": "Healing, Galloping, Magic" },
+      { "trait_type": "diet", "value": "Herbivore" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "50 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 125,
+    "name": "Kraken",
+    "description": "A legendary sea monster with tentacles that crush ships, lurking in the ocean's depths.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/125.kraken.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Cephalopod" },
+      { "trait_type": "habitat", "value": "Deep Oceans" },
+      { "trait_type": "abilities", "value": "Crushing, Ambush, Ink Cloud" },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 126,
+    "name": "Yeti",
+    "description": "A towering beast of the Himalayas, its snowy fur hiding it in blizzards.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/126.yeti.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Primate" },
+      { "trait_type": "habitat", "value": "Himalayan Peaks" },
+      {
+        "trait_type": "abilities",
+        "value": "Strength, Stealth, Cold Resistance"
+      },
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "Unknown" },
+      { "trait_type": "speed", "value": "25 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 127,
+    "name": "Chimera",
+    "description": "A monstrous hybrid with a lion's body, goat's head, and serpent tail, breathing fire.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/127.chimera.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Hybrid" },
+      { "trait_type": "habitat", "value": "Ancient Ruins" },
+      {
+        "trait_type": "abilities",
+        "value": "Fire Breathing, Multi-Attack, Roaring"
+      },
+      { "trait_type": "diet", "value": "Carnivore" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  },
+  {
+    "tokenId": 128,
+    "name": "Sphinx",
+    "description": "A wise guardian with a lion's body and human face, posing riddles in desert sands.",
+    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/128.sphinx.webp",
+    "attributes": [
+      { "trait_type": "species", "value": "Mythical Hybrid" },
+      { "trait_type": "habitat", "value": "Desert Temples" },
+      {
+        "trait_type": "abilities",
+        "value": "Riddle Mastery, Strength, Guardianship"
+      },
+      { "trait_type": "diet", "value": "Unknown" },
+      { "trait_type": "lifespan", "value": "Eternal" },
+      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "rarity", "value": "Mythical" }
+    ],
+    "external_url": "",
+    "artist": "MythicCreator",
+    "collection": "Mythical Beasts",
+    "conservation_status": "Not Applicable"
+  }
+]

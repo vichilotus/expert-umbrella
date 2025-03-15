@@ -1,14 +1,3 @@
-{
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" },    
-    { "id": 2, "title": "monad-server", "author": "amydex" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "second comment", "postId": 2 }
-  ],
-  "profile": [
-    { "id": 1, "name": "typicode" },
-    { "id": 2, "name": "amydex" }
-  ]
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:475a70b5bc7ef25f130423224d3799ac854f9b0d458a1012f3f5e382854314d0
+size 88064702
