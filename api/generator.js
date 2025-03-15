@@ -7,7 +7,7 @@ const nftMetadata = JSON.parse(fs.readFileSync(nftMetadataPath, "utf8"));
 
 // Function to generate data
 function generateData(numClones) {
-  const generatedData = [];
+  const generatedData = {};
 
   // Step 1: Clone each name numClones times and randomize the order
   const clonedNames = [];
@@ -32,7 +32,7 @@ function generateData(numClones) {
         clonedNames.splice(randomIndex, 1); // Remove the chosen item
       }
     }
-    generatedData.push({ id: i, ...item });
+    generatedData[i] = { id: i, ...item };
   }
 
   return generatedData;
@@ -43,18 +43,18 @@ function saveToDb(data) {
   const dbPath = path.join(__dirname, "..", "db.json");
 
   // Clear db.json before saving new data
-  const db = { api: [] };
+  const db = {};
 
-  // Save each entry without the index
-  for (const item of data) {
-    db.api.push(item);
+  // Save each entry with the index as the key
+  for (const key in data) {
+    db[key] = data[key];
   }
 
   fs.writeFileSync(dbPath, JSON.stringify(db, null, 2), "utf8");
 }
 
 // Generate and save data
-const numClones = 100; // Set the number of clones as a parameter
+const numClones = 1000; // Set the number of clones as a parameter
 const generatedData = generateData(numClones);
 saveToDb(generatedData);
 
