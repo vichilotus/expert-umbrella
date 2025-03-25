@@ -1,0 +1,13 @@
+{
+    "db3.blog": [
+      { "id": "1", "title": "a title" },
+      { "id": "2", "title": "another title" }
+    ],
+    "db3.chat": [
+      { "id": "1", "text": "a chat in blog 1", "postId": "1" },
+      { "id": "2", "text": "another chat in blog 1", "postId": "1" }
+    ],
+    "db3.codename": {
+      "name": "typicode"
+    }
+  }

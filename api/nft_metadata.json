@@ -3,7 +3,7 @@
     "tokenId": 1,
     "name": "Lion",
     "description": "The king of the jungle, known for its strength and majestic mane.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/001.lion.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/001_lion.webp",
     "attributes": [
       { "trait_type": "species", "value": "Big Cat" },
       { "trait_type": "habitat", "value": "Savannah" },
@@ -22,7 +22,7 @@
     "tokenId": 2,
     "name": "Tiger",
     "description": "A stealthy predator with iconic stripes, ruling the forests with unmatched power.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/002.tiger.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/002_tiger.webp",
     "attributes": [
       { "trait_type": "species", "value": "Big Cat" },
       { "trait_type": "habitat", "value": "Forests, Swamps" },
@@ -41,7 +41,7 @@
     "tokenId": 3,
     "name": "Jaguar",
     "description": "A sleek and powerful feline, master of the jungle with a bone-crushing bite.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/003.jaguar.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/003_jaguar.webp",
     "attributes": [
       { "trait_type": "species", "value": "Big Cat" },
       { "trait_type": "habitat", "value": "Rainforests, Grasslands" },
@@ -60,7 +60,7 @@
     "tokenId": 4,
     "name": "Leopard",
     "description": "An elusive spotted cat, known for its agility and ability to drag prey up trees.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/004.leopard.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/004_leopard.webp",
     "attributes": [
       { "trait_type": "species", "value": "Big Cat" },
       { "trait_type": "habitat", "value": "Forests, Deserts" },
@@ -79,7 +79,7 @@
     "tokenId": 5,
     "name": "Panda",
     "description": "A gentle giant with a love for bamboo, cherished for its black-and-white charm.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/005.panda.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/005_panda.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bear" },
       { "trait_type": "habitat", "value": "Bamboo Forests" },
@@ -101,7 +101,7 @@
     "tokenId": 6,
     "name": "Polar Bear",
     "description": "A mighty predator of the Arctic, built for survival in the harshest icy realms.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/006.polar_bear.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/006_polar_bear.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bear" },
       { "trait_type": "habitat", "value": "Arctic" },
@@ -120,7 +120,7 @@
     "tokenId": 7,
     "name": "Brown Bear",
     "description": "A massive omnivore roaming forests and mountains, known for its raw power.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/007.brown_bear.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/007_brown_bear.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bear" },
       { "trait_type": "habitat", "value": "Forests, Mountains" },
@@ -139,7 +139,7 @@
     "tokenId": 8,
     "name": "African Elephant",
     "description": "The largest land animal on Earth, a symbol of wisdom and strength in the savannah.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/008.african_elephant.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/008_african_elephant.webp",
     "attributes": [
       { "trait_type": "species", "value": "Elephant" },
       { "trait_type": "habitat", "value": "Savannah, Forests" },
@@ -161,7 +161,7 @@
     "tokenId": 9,
     "name": "Asian Elephant",
     "description": "A smaller cousin of the African elephant, revered in Asian cultures for its grace.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/009.asian_elephant.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/009_asian_elephant.webp",
     "attributes": [
       { "trait_type": "species", "value": "Elephant" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -183,7 +183,7 @@
     "tokenId": 10,
     "name": "White Rhino",
     "description": "A massive herbivore with thick skin, grazing the grasslands with ancient might.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/010.white_rhino.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/010_white_rhino.webp",
     "attributes": [
       { "trait_type": "species", "value": "Rhinoceros" },
       { "trait_type": "habitat", "value": "Grasslands" },
@@ -205,7 +205,7 @@
     "tokenId": 11,
     "name": "Black Rhino",
     "description": "A smaller, more elusive rhino, fiercely protective with a prehistoric presence.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/011.black_rihno.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/011_black_rhino.webp",
     "attributes": [
       { "trait_type": "species", "value": "Rhinoceros" },
       { "trait_type": "habitat", "value": "Savannah, Bushlands" },
@@ -224,7 +224,7 @@
     "tokenId": 12,
     "name": "Giraffe",
     "description": "The tallest land animal, reaching for the highest leaves with its elegant neck.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/012.giraffe.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/012_giraffe.webp",
     "attributes": [
       { "trait_type": "species", "value": "Giraffid" },
       { "trait_type": "habitat", "value": "Savannah" },
@@ -246,7 +246,7 @@
     "tokenId": 13,
     "name": "Zebra",
     "description": "A striped marvel of the plains, using its patterns to confuse predators.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/013.zebra.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/013_zebra.webp",
     "attributes": [
       { "trait_type": "species", "value": "Equid" },
       { "trait_type": "habitat", "value": "Grasslands" },
@@ -265,7 +265,7 @@
     "tokenId": 14,
     "name": "Hippopotamus",
     "description": "A massive river dweller, feared for its unpredictable aggression and powerful jaws.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/014.hippopotamus.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/014_hippopotamus.webp",
     "attributes": [
       { "trait_type": "species", "value": "Hippopotamid" },
       { "trait_type": "habitat", "value": "Rivers, Lakes" },
@@ -284,7 +284,7 @@
     "tokenId": 15,
     "name": "Seal",
     "description": "A sleek marine mammal, thriving in icy waters with its playful demeanor.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/015.seal.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/015_seal.webp",
     "attributes": [
       { "trait_type": "species", "value": "Pinniped" },
       { "trait_type": "habitat", "value": "Oceans, Coastal Regions" },
@@ -303,7 +303,7 @@
     "tokenId": 16,
     "name": "Sea Lion",
     "description": "A social marine mammal, barking loudly on rocky shores and diving with agility.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/016.sea_lion.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/016_sea_lion.webp",
     "attributes": [
       { "trait_type": "species", "value": "Pinniped" },
       { "trait_type": "habitat", "value": "Coastal Waters" },
@@ -325,7 +325,7 @@
     "tokenId": 17,
     "name": "Dolphin",
     "description": "A playful and intelligent marine mammal, known for its acrobatics and social nature.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/017.dolphin.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/017_dolphin.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -347,7 +347,7 @@
     "tokenId": 18,
     "name": "Blue Whale",
     "description": "The largest animal on Earth, its haunting songs echo through the deep oceans.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/018.blue_whale.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/018_blue_whale.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -366,7 +366,7 @@
     "tokenId": 19,
     "name": "Humpback Whale",
     "description": "A majestic whale known for its acrobatic breaches and complex songs.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/019.humpback_whale.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/019_humpback_whale.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -385,7 +385,7 @@
     "tokenId": 20,
     "name": "Great White Shark",
     "description": "A fearsome apex predator of the oceans, with unmatched speed and power.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/020.grate_white_shark.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/020_great_white_shark.webp",
     "attributes": [
       { "trait_type": "species", "value": "Shark" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -404,7 +404,7 @@
     "tokenId": 21,
     "name": "Whale Shark",
     "description": "A gentle giant of the seas, filtering plankton with its massive mouth.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/021.whale_shark.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/021_whale_shark.webp",
     "attributes": [
       { "trait_type": "species", "value": "Shark" },
       { "trait_type": "habitat", "value": "Tropical Oceans" },
@@ -426,7 +426,7 @@
     "tokenId": 22,
     "name": "Penguin",
     "description": "A flightless bird thriving in icy waters, waddling with charming elegance.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/022.penguin.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/022_penguin.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Antarctic, Coastal Regions" },
@@ -445,7 +445,7 @@
     "tokenId": 23,
     "name": "Eagle",
     "description": "A majestic bird of prey, soaring high with razor-sharp vision and talons.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/023.eagle.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/023_eagle.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Mountains, Forests" },
@@ -464,7 +464,7 @@
     "tokenId": 24,
     "name": "Owl",
     "description": "A silent hunter of the night, with piercing eyes and ghostly flight.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/024.owl.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/024_owl.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Forests, Deserts" },
@@ -486,7 +486,7 @@
     "tokenId": 25,
     "name": "Peacock",
     "description": "A vibrant bird with an iridescent tail, displaying beauty in every feather.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/025.peacock.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/025_peacock.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -505,7 +505,7 @@
     "tokenId": 26,
     "name": "Flamingo",
     "description": "A tall, pink wader, standing gracefully in shallow waters with elegance.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/026.flamingo.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/026_flamingo.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Lakes, Lagoons" },
@@ -527,7 +527,7 @@
     "tokenId": 27,
     "name": "Parrot",
     "description": "A colorful bird with a sharp beak, mimicking sounds in tropical forests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/027.parrot.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/027_parrot.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -546,7 +546,7 @@
     "tokenId": 28,
     "name": "Hummingbird",
     "description": "A tiny jewel of the skies, hovering with rapid wings while sipping nectar.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/028.hummingbird.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/028_hummingbird.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Forests, Gardens" },
@@ -565,7 +565,7 @@
     "tokenId": 29,
     "name": "Kangaroo",
     "description": "A hopping marsupial of the outback, packing a punch with its strong legs.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/029.kangaroo.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/029_kangaroo.webp",
     "attributes": [
       { "trait_type": "species", "value": "Marsupial" },
       { "trait_type": "habitat", "value": "Grasslands, Deserts" },
@@ -587,7 +587,7 @@
     "tokenId": 30,
     "name": "Koala",
     "description": "A cuddly marsupial clinging to eucalyptus trees, sleeping most of the day.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/030.koala.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/030_koala.webp",
     "attributes": [
       { "trait_type": "species", "value": "Marsupial" },
       { "trait_type": "habitat", "value": "Eucalyptus Forests" },
@@ -606,7 +606,7 @@
     "tokenId": 31,
     "name": "Wallaby",
     "description": "A smaller cousin of the kangaroo, bounding through the Australian scrublands.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/031.wallaby.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/031_wallaby.webp",
     "attributes": [
       { "trait_type": "species", "value": "Marsupial" },
       { "trait_type": "habitat", "value": "Grasslands, Forests" },
@@ -625,7 +625,7 @@
     "tokenId": 32,
     "name": "Wombat",
     "description": "A burrowing marsupial with a tough build, digging through the Australian earth.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/032.wombat.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/032_wombat.webp",
     "attributes": [
       { "trait_type": "species", "value": "Marsupial" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -644,7 +644,7 @@
     "tokenId": 33,
     "name": "King Cobra",
     "description": "A venomous serpent with a deadly hood, striking fear into tropical jungles.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/033.king_cobra.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/033_king_cobra.webp",
     "attributes": [
       { "trait_type": "species", "value": "Snake" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -666,7 +666,7 @@
     "tokenId": 34,
     "name": "Python",
     "description": "A massive constrictor, squeezing its prey with raw power in dense jungles.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/034.python.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/034_python.webp",
     "attributes": [
       { "trait_type": "species", "value": "Snake" },
       { "trait_type": "habitat", "value": "Rainforests, Swamps" },
@@ -685,7 +685,7 @@
     "tokenId": 35,
     "name": "Komodo Dragon",
     "description": "A fearsome lizard with a venomous bite, ruling the islands like a living dinosaur.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/035.komodo.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/035_komodo.webp",
     "attributes": [
       { "trait_type": "species", "value": "Lizard" },
       { "trait_type": "habitat", "value": "Islands, Grasslands" },
@@ -704,7 +704,7 @@
     "tokenId": 36,
     "name": "Crocodile",
     "description": "A stealthy aquatic predator, lurking in rivers with bone-crushing jaws.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/036.crocodile.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/036_crocodile.webp",
     "attributes": [
       { "trait_type": "species", "value": "Reptile" },
       { "trait_type": "habitat", "value": "Rivers, Wetlands" },
@@ -723,7 +723,7 @@
     "tokenId": 37,
     "name": "Nile Crocodile",
     "description": "A legendary predator of African rivers, feared for its size and ferocity.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/037.nile_crocodile.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/037_nile_crocodile.webp",
     "attributes": [
       { "trait_type": "species", "value": "Reptile" },
       { "trait_type": "habitat", "value": "Rivers, Lakes" },
@@ -742,7 +742,7 @@
     "tokenId": 38,
     "name": "Alligator",
     "description": "A broad-snouted reptile, thriving in swamps with a patient, deadly strike.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/038.alligator.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/038_alligator.webp",
     "attributes": [
       { "trait_type": "species", "value": "Reptile" },
       { "trait_type": "habitat", "value": "Swamps, Rivers" },
@@ -761,7 +761,7 @@
     "tokenId": 39,
     "name": "Turtle",
     "description": "A slow-moving reptile with a sturdy shell, thriving in oceans and on land.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/039.turtle.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/039_turtle.webp",
     "attributes": [
       { "trait_type": "species", "value": "Reptile" },
       { "trait_type": "habitat", "value": "Oceans, Beaches" },
@@ -783,7 +783,7 @@
     "tokenId": 40,
     "name": "Tortoise",
     "description": "A land-dwelling reptile with a heavy shell, embodying patience and wisdom.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/040.tortoise.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/040_tortoise.webp",
     "attributes": [
       { "trait_type": "species", "value": "Reptile" },
       { "trait_type": "habitat", "value": "Deserts, Grasslands" },
@@ -805,7 +805,7 @@
     "tokenId": 41,
     "name": "Dart Frog",
     "description": "A tiny, brightly colored amphibian with a toxic touch, hopping through rainforests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/041.dart_frog.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/041_dart_frog.webp",
     "attributes": [
       { "trait_type": "species", "value": "Amphibian" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -824,7 +824,7 @@
     "tokenId": 42,
     "name": "Green Frog",
     "description": "A vibrant amphibian croaking by ponds, blending into the lush greenery.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/042.green_frog.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/042_green_frog.webp",
     "attributes": [
       { "trait_type": "species", "value": "Amphibian" },
       { "trait_type": "habitat", "value": "Ponds, Wetlands" },
@@ -843,7 +843,7 @@
     "tokenId": 43,
     "name": "Butterfly",
     "description": "A delicate insect with colorful wings, fluttering through gardens in the sunlight.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/043.butterfly.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/043_butterfly.webp",
     "attributes": [
       { "trait_type": "species", "value": "Insect" },
       { "trait_type": "habitat", "value": "Gardens, Forests" },
@@ -862,7 +862,7 @@
     "tokenId": 44,
     "name": "Honeybee",
     "description": "A hardworking pollinator, buzzing tirelessly to produce honey in its hive.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/044.honeybee.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/044_honeybee.webp",
     "attributes": [
       { "trait_type": "species", "value": "Insect" },
       { "trait_type": "habitat", "value": "Hives, Gardens" },
@@ -884,7 +884,7 @@
     "tokenId": 45,
     "name": "Ant",
     "description": "A tiny but mighty insect, working in colonies with incredible strength and teamwork.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/045.ant.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/045_ant.webp",
     "attributes": [
       { "trait_type": "species", "value": "Insect" },
       { "trait_type": "habitat", "value": "Soil, Forests" },
@@ -906,7 +906,7 @@
     "tokenId": 46,
     "name": "Tarantula",
     "description": "A large, hairy spider with a fearsome look, weaving webs in dark corners.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/046.tarantula.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/046_tarantula.webp",
     "attributes": [
       { "trait_type": "species", "value": "Arachnid" },
       { "trait_type": "habitat", "value": "Deserts, Forests" },
@@ -928,7 +928,7 @@
     "tokenId": 47,
     "name": "Beetle",
     "description": "A tough insect with a shiny shell, scuttling through forests and fields.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/047.beetle.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/047_beetle.webp",
     "attributes": [
       { "trait_type": "species", "value": "Insect" },
       { "trait_type": "habitat", "value": "Forests, Fields" },
@@ -947,7 +947,7 @@
     "tokenId": 48,
     "name": "Octopus",
     "description": "A clever cephalopod with eight arms, mastering camouflage in the ocean depths.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/048.octopus.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/048_octopus.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cephalopod" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -969,7 +969,7 @@
     "tokenId": 49,
     "name": "Squid",
     "description": "A fast-swimming cephalopod with tentacles, thriving in the open ocean.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/049.squid.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/049_squid.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cephalopod" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -991,7 +991,7 @@
     "tokenId": 50,
     "name": "Starfish",
     "description": "A spiny sea star, regenerating limbs while clinging to ocean rocks.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/050.starfish.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/050_starfish.webp",
     "attributes": [
       { "trait_type": "species", "value": "Echinoderm" },
       { "trait_type": "habitat", "value": "Oceans, Coral Reefs" },
@@ -1013,7 +1013,7 @@
     "tokenId": 51,
     "name": "Crab",
     "description": "A sideways-walking crustacean, thriving on beaches with its sturdy claws.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/051.crab.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/051_crab.webp",
     "attributes": [
       { "trait_type": "species", "value": "Crustacean" },
       { "trait_type": "habitat", "value": "Beaches, Oceans" },
@@ -1032,7 +1032,7 @@
     "tokenId": 52,
     "name": "Lobster",
     "description": "A deep-sea crustacean with powerful claws, scavenging the ocean floor.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/052.lobster.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/052_lobster.webp",
     "attributes": [
       { "trait_type": "species", "value": "Crustacean" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -1051,7 +1051,7 @@
     "tokenId": 53,
     "name": "Seahorse",
     "description": "A tiny marvel of the ocean, curling its tail around coral with delicate grace.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/053.seahorse.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/053_seahorse.webp",
     "attributes": [
       { "trait_type": "species", "value": "Fish" },
       { "trait_type": "habitat", "value": "Coral Reefs, Seagrass" },
@@ -1073,7 +1073,7 @@
     "tokenId": 54,
     "name": "Clownfish",
     "description": "A bright orange fish living among anemones, immune to their stings.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/054.clownfish.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/054_clownfish.webp",
     "attributes": [
       { "trait_type": "species", "value": "Fish" },
       { "trait_type": "habitat", "value": "Coral Reefs" },
@@ -1092,7 +1092,7 @@
     "tokenId": 55,
     "name": "Hammerhead Shark",
     "description": "A unique shark with a hammer-shaped head, hunting with enhanced senses.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/055.hammerhead_shark.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/055_hammerhead_shark.webp",
     "attributes": [
       { "trait_type": "species", "value": "Shark" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -1111,7 +1111,7 @@
     "tokenId": 56,
     "name": "Manta Ray",
     "description": "A graceful giant of the sea, gliding through oceans with wing-like fins.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/056.manta_ray.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/056_manta_ray.webp",
     "attributes": [
       { "trait_type": "species", "value": "Ray" },
       { "trait_type": "habitat", "value": "Tropical Oceans" },
@@ -1133,7 +1133,7 @@
     "tokenId": 57,
     "name": "Wild Boar",
     "description": "A bristly mammal with sharp tusks, foraging aggressively in forests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/057.wild_boar.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/057_wild_boar.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -1152,7 +1152,7 @@
     "tokenId": 58,
     "name": "Antelope",
     "description": "A swift grazer of the plains, leaping gracefully to evade predators.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/058.antelope.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/058_antelope.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Grasslands, Savannah" },
@@ -1171,7 +1171,7 @@
     "tokenId": 59,
     "name": "Bison",
     "description": "A massive herbivore of the plains, charging with unstoppable force.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/059.bison.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/059_bison.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Grasslands" },
@@ -1190,7 +1190,7 @@
     "tokenId": 60,
     "name": "Mountain Goat",
     "description": "A sure-footed climber of rugged peaks, defying gravity with ease.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/060.mountain_goat.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/060_mountain_goat.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Mountains" },
@@ -1209,7 +1209,7 @@
     "tokenId": 61,
     "name": "Sheep",
     "description": "A woolly grazer of the hills, known for its thick fleece and herd instincts.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/061.sheep.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/061_sheep.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Grasslands, Hills" },
@@ -1231,7 +1231,7 @@
     "tokenId": 62,
     "name": "Goat",
     "description": "A nimble climber of rocky terrains, known for its stubborn grit and sharp horns.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/062.goat.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/062_goat.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Mountains, Farms" },
@@ -1250,7 +1250,7 @@
     "tokenId": 63,
     "name": "Camel",
     "description": "A desert survivor with humps for sustenance, trekking across scorching sands.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/063.camel.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/063_camel.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Deserts" },
@@ -1272,7 +1272,7 @@
     "tokenId": 64,
     "name": "Dromedary",
     "description": "A single-humped camel, built for desert endurance with a proud stride.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/064.dromedary.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/064_dromedary.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Deserts" },
@@ -1294,7 +1294,7 @@
     "tokenId": 65,
     "name": "Wolf",
     "description": "A cunning pack hunter of the wild, its haunting howl echoes through moonlit forests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/065.wolf.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/065_wolf.webp",
     "attributes": [
       { "trait_type": "species", "value": "Canine" },
       { "trait_type": "habitat", "value": "Forests, Tundra" },
@@ -1313,7 +1313,7 @@
     "tokenId": 66,
     "name": "Fox",
     "description": "A sly predator with a fiery coat, stalking silently through twilight woods.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/066.fox.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/066_fox.webp",
     "attributes": [
       { "trait_type": "species", "value": "Canine" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -1332,7 +1332,7 @@
     "tokenId": 67,
     "name": "Raccoon",
     "description": "A clever scavenger with a bandit mask, thriving in both wild and urban shadows.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/067.raccoon.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/067_raccoon.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Forests, Urban Areas" },
@@ -1351,7 +1351,7 @@
     "tokenId": 68,
     "name": "Ferret",
     "description": "A sleek and curious predator, weaving through burrows with playful mischief.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/068.ferret.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/068_ferret.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Grasslands, Forests" },
@@ -1370,7 +1370,7 @@
     "tokenId": 69,
     "name": "Otter",
     "description": "A joyful swimmer of rivers and seas, cracking clams with rocks in playful dance.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/069.otter.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/069_otter.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Rivers, Coasts" },
@@ -1389,7 +1389,7 @@
     "tokenId": 70,
     "name": "Beaver",
     "description": "A diligent architect of rivers, felling trees to craft dams with precision.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/070.beaver.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/070_beaver.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Rivers, Lakes" },
@@ -1408,7 +1408,7 @@
     "tokenId": 71,
     "name": "Mole",
     "description": "A velvet-furred digger of the underworld, carving tunnels with powerful paws.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/071.mole.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/071_mole.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Underground, Fields" },
@@ -1427,7 +1427,7 @@
     "tokenId": 72,
     "name": "Porcupine",
     "description": "A spiky rodent armed with quills, waddling through forests with quiet defense.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/072.porcupine.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/072_porcupine.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Forests, Deserts" },
@@ -1449,7 +1449,7 @@
     "tokenId": 73,
     "name": "Rabbit",
     "description": "A swift hopper with twitching ears, darting through meadows and burrows.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/073.rabbit.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/073_rabbit.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Fields, Forests" },
@@ -1468,7 +1468,7 @@
     "tokenId": 74,
     "name": "Squirrel",
     "description": "A nimble acrobat of the treetops, stashing nuts with frantic precision.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/074.squirrel.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/074_squirrel.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Forests, Urban Areas" },
@@ -1487,7 +1487,7 @@
     "tokenId": 75,
     "name": "Gorilla",
     "description": "A mighty primate of the jungle, its silverback commanding respect in misty forests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/075.gorilla.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/075_gorilla.webp",
     "attributes": [
       { "trait_type": "species", "value": "Primate" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -1509,7 +1509,7 @@
     "tokenId": 76,
     "name": "Chimpanzee",
     "description": "A witty ape crafting tools in the canopy, its laughter echoing through the jungle.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/076.chimpanzee.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/076_chimpanzee.webp",
     "attributes": [
       { "trait_type": "species", "value": "Primate" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -1528,7 +1528,7 @@
     "tokenId": 77,
     "name": "Orangutan",
     "description": "A solitary red ape swinging through treetops, its wisdom etched in every slow move.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/077.orangutan.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/077_orangutan.webp",
     "attributes": [
       { "trait_type": "species", "value": "Primate" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -1550,7 +1550,7 @@
     "tokenId": 78,
     "name": "Baboon",
     "description": "A brash primate with a colorful snout, barking orders in the dusty savannah.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/078.baboon.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/078_baboon.webp",
     "attributes": [
       { "trait_type": "species", "value": "Primate" },
       { "trait_type": "habitat", "value": "Savannah, Forests" },
@@ -1569,7 +1569,7 @@
     "tokenId": 79,
     "name": "Gibbon",
     "description": "A lithe ape with a haunting song, gliding through the forest canopy with ease.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/079.gibbon.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/079_gibbon.webp",
     "attributes": [
       { "trait_type": "species", "value": "Primate" },
       { "trait_type": "habitat", "value": "Forests" },
@@ -1588,7 +1588,7 @@
     "tokenId": 80,
     "name": "Bat",
     "description": "A winged nocturnal hunter, its wings slicing through the night with eerie precision.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/080.bat.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/080_bat.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Caves, Forests" },
@@ -1607,7 +1607,7 @@
     "tokenId": 81,
     "name": "Amazon Dolphin",
     "description": "A mystic pink dolphin of the Amazon, weaving through murky rivers with grace.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/081.amazon_dolphin.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/081_amazon_dolphin.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Rivers" },
@@ -1629,7 +1629,7 @@
     "tokenId": 82,
     "name": "Hector's Dolphin",
     "description": "A petite dolphin with a rounded fin, darting through New Zealand's coastal shallows.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/082.dolphin.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/082_hector_dolphin.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Coastal Waters" },
@@ -1651,7 +1651,7 @@
     "tokenId": 83,
     "name": "Walrus",
     "description": "A tusked titan of the Arctic, lounging on ice floes with a bellowing roar.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/083.walrus.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/083_walrus.webp",
     "attributes": [
       { "trait_type": "species", "value": "Pinniped" },
       { "trait_type": "habitat", "value": "Arctic Oceans" },
@@ -1673,7 +1673,7 @@
     "tokenId": 84,
     "name": "Narwhal",
     "description": "A mystical whale with a spiraled tusk, piercing the icy Arctic seas.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/084.narwhal.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/084_narwhal.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Arctic Oceans" },
@@ -1692,7 +1692,7 @@
     "tokenId": 85,
     "name": "Orca",
     "description": "A black-and-white apex predator, its pod hunting with deadly coordination.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/085.orca.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/085_orca.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -1714,7 +1714,7 @@
     "tokenId": 86,
     "name": "Maui Dolphin",
     "description": "A rare diminutive dolphin, its rounded fin slicing through New Zealand waves.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/086.maui_dolphin.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/086_maui_dolphin.webp",
     "attributes": [
       { "trait_type": "species", "value": "Cetacean" },
       { "trait_type": "habitat", "value": "Coastal Waters" },
@@ -1736,7 +1736,7 @@
     "tokenId": 87,
     "name": "Monarch Butterfly",
     "description": "A vibrant traveler with wings of flame, migrating across continents in a delicate dance.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/087.monarch_butterfly.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/087_monarch_butterfly.webp",
     "attributes": [
       { "trait_type": "species", "value": "Insect" },
       { "trait_type": "habitat", "value": "Fields, Forests" },
@@ -1755,7 +1755,7 @@
     "tokenId": 88,
     "name": "Samurai Cat",
     "description": "A feline warrior with a katana, its whiskers sharp as its blade in ancient Japan.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/088.samurai_cat.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/088_samurai_cat.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Feline" },
       { "trait_type": "habitat", "value": "Feudal Japan" },
@@ -1765,7 +1765,7 @@
       { "trait_type": "speed", "value": "45 mph" },
       { "trait_type": "rarity", "value": "Legendary" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -1774,7 +1774,7 @@
     "tokenId": 89,
     "name": "Husky",
     "description": "A loyal sled dog with icy blue eyes, racing through snow with boundless spirit.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/089.husky.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/089_husky.webp",
     "attributes": [
       { "trait_type": "species", "value": "Canine" },
       { "trait_type": "habitat", "value": "Arctic, Tundra" },
@@ -1793,7 +1793,7 @@
     "tokenId": 90,
     "name": "Tentacule",
     "description": "An eldritch horror from the abyss, its tentacles glowing with an otherworldly light.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/090.tentacule.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/090_tentacule.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Cephalopod" },
       { "trait_type": "habitat", "value": "Abyssal Depths" },
@@ -1806,51 +1806,48 @@
       { "trait_type": "speed", "value": "10 mph" },
       { "trait_type": "rarity", "value": "Mythical" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
   },
   {
     "tokenId": 91,
-    "name": "Pepe",
-    "description": "A mischievous frog with a meme-worthy grin, hopping through the internet's wild swamps.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/091.pepe.webp",
+    "name": "Pigeon",
+    "description": "A common city bird, known for its adaptability and cooing sounds.",
+    "image": "https://static.amyfinance.xyz/collections/creatures/091_pigeon.webp",
     "attributes": [
-      { "trait_type": "species", "value": "Mythical Amphibian" },
-      { "trait_type": "habitat", "value": "Digital Realms" },
+      { "trait_type": "species", "value": "Bird" },
+      { "trait_type": "habitat", "value": "Urban Areas, Parks" },
       {
         "trait_type": "abilities",
-        "value": "Memetic Influence, Hopping, Smirking"
+        "value": "Flying, Navigation, Adaptability"
       },
-      { "trait_type": "diet", "value": "Memes" },
-      { "trait_type": "lifespan", "value": "Eternal" },
-      { "trait_type": "speed", "value": "5 mph" },
-      { "trait_type": "rarity", "value": "Legendary" }
+      { "trait_type": "diet", "value": "Omnivore" },
+      { "trait_type": "lifespan", "value": "3-5 years" },
+      { "trait_type": "speed", "value": "50 mph" },
+      { "trait_type": "rarity", "value": "Common" }
     ],
-    "external_url": "",
-    "artist": "MythicCreator",
-    "collection": "Mythical Beasts",
-    "conservation_status": "Not Applicable"
+    "external_url": "https://en.wikipedia.org/wiki/Pigeon",
+    "artist": "WildlifeArtist",
+    "collection": "Wild Beasts",
+    "conservation_status": "Least Concern"
   },
   {
     "tokenId": 92,
-    "name": "Pepe Samurai",
-    "description": "A frog warrior clad in samurai armor, wielding a katana with memetic honor.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/092.pepe_samurai.webp",
+    "name": "Lotus Cat",
+    "description": "A mystical feline adorned with lotus flowers, exuding serenity and grace.",
+    "image": "https://static.amyfinance.xyz/collections/creatures/092_lotus_cat.webp",
     "attributes": [
-      { "trait_type": "species", "value": "Mythical Amphibian" },
-      { "trait_type": "habitat", "value": "Digital Feudal Japan" },
-      {
-        "trait_type": "abilities",
-        "value": "Swordplay, Hopping, Memetic Mastery"
-      },
-      { "trait_type": "diet", "value": "Memes" },
+      { "trait_type": "species", "value": "Mythical Feline" },
+      { "trait_type": "habitat", "value": "Sacred Gardens" },
+      { "trait_type": "abilities", "value": "Healing, Meditation, Agility" },
+      { "trait_type": "diet", "value": "Herbivore" },
       { "trait_type": "lifespan", "value": "Eternal" },
-      { "trait_type": "speed", "value": "15 mph" },
-      { "trait_type": "rarity", "value": "Mythical" }
+      { "trait_type": "speed", "value": "20 mph" },
+      { "trait_type": "rarity", "value": "Legendary" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -1859,7 +1856,7 @@
     "tokenId": 93,
     "name": "Mammoth",
     "description": "A shaggy titan of the Ice Age, its tusks carving paths through frozen tundras.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/093.mammoth.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/093_mammoth.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Tundra" },
@@ -1881,7 +1878,7 @@
     "tokenId": 94,
     "name": "Sabertooth",
     "description": "A prehistoric feline with dagger-like fangs, stalking through ancient plains.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/094.sabertooth.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/094_sabertooth.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Grasslands" },
@@ -1900,7 +1897,7 @@
     "tokenId": 95,
     "name": "Terror Bird",
     "description": "A towering predator of ancient lands, its beak a weapon of swift destruction.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/095.terror_bird.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/095_terror_bird.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Grasslands" },
@@ -1919,7 +1916,7 @@
     "tokenId": 96,
     "name": "Kakapo",
     "description": "A nocturnal parrot with a waddling gait, climbing trees in New Zealand's dark forests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/096.kakapo.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/096_kakapo.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Forests" },
@@ -1941,7 +1938,7 @@
     "tokenId": 97,
     "name": "Dodo",
     "description": "A plump, flightless bird of Mauritius, its trusting nature led to its untimely end.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/097.dodo.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/097_dodo.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Forests" },
@@ -1960,7 +1957,7 @@
     "tokenId": 98,
     "name": "Tasmanian Devil",
     "description": "A feisty marsupial with a bone-crushing bite, snarling through the Tasmanian night.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/098.tasmanian_devil.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/098_tasmanian_devil.webp",
     "attributes": [
       { "trait_type": "species", "value": "Marsupial" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -1979,7 +1976,7 @@
     "tokenId": 99,
     "name": "Platypus",
     "description": "A bizarre egg-laying mammal with a duckbill, paddling through Australian streams.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/099.platypus.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/099_platypus.webp",
     "attributes": [
       { "trait_type": "species", "value": "Monotreme" },
       { "trait_type": "habitat", "value": "Rivers, Streams" },
@@ -2001,7 +1998,7 @@
     "tokenId": 100,
     "name": "Echidna",
     "description": "A spiny monotreme snuffling through the outback, uncovering insects with its snout.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/100.echidna.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/100-echidna.webp",
     "attributes": [
       { "trait_type": "species", "value": "Monotreme" },
       { "trait_type": "habitat", "value": "Forests, Deserts" },
@@ -2023,7 +2020,7 @@
     "tokenId": 101,
     "name": "Quokka",
     "description": "A small marsupial with a perpetual smile, hopping cheerfully on Australian islands.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/101.quokka.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/101_quokka.webp",
     "attributes": [
       { "trait_type": "species", "value": "Marsupial" },
       { "trait_type": "habitat", "value": "Islands, Forests" },
@@ -2042,7 +2039,7 @@
     "tokenId": 102,
     "name": "Kiwi",
     "description": "A flightless bird with a long beak, sniffing through New Zealand's underbrush at night.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/102.kiwi.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/102_kiwi.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Forests" },
@@ -2064,7 +2061,7 @@
     "tokenId": 103,
     "name": "Emu",
     "description": "A towering flightless bird, sprinting across the Australian outback with powerful legs.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/103.emu.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/103_emu.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Grasslands, Deserts" },
@@ -2083,7 +2080,7 @@
     "tokenId": 104,
     "name": "Ostrich",
     "description": "The world's largest bird, dashing across African plains with thunderous strides.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/104.ostrich.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/104_ostrich.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Savannah, Deserts" },
@@ -2102,7 +2099,7 @@
     "tokenId": 105,
     "name": "Cassowary",
     "description": "A fierce flightless bird with a deadly kick, lurking in the rainforests of New Guinea.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/105.cassowary.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/105_cassowary.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -2121,7 +2118,7 @@
     "tokenId": 106,
     "name": "Albatross",
     "description": "A majestic seabird with the widest wingspan, soaring endlessly over ocean waves.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/106.albatross.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/106_albatross.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Oceans" },
@@ -2143,7 +2140,7 @@
     "tokenId": 107,
     "name": "Frigatebird",
     "description": "A pirate of the skies, snatching prey mid-flight with its forked tail and sharp beak.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/107.frigatebird.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/107_frigatebird.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Oceans, Tropical Islands" },
@@ -2165,7 +2162,7 @@
     "tokenId": 108,
     "name": "Peregrine Falcon",
     "description": "The fastest bird alive, diving at breakneck speeds to snatch prey mid-air.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/108.peregrine_falcon.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/108_peregrine_falcon.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Mountains, Cities" },
@@ -2184,7 +2181,7 @@
     "tokenId": 109,
     "name": "Harpy Eagle",
     "description": "A rainforest terror with talons like daggers, snatching sloths from the canopy.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/109.harpy_eagle.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/109_harpy_eagle.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Rainforests" },
@@ -2203,7 +2200,7 @@
     "tokenId": 110,
     "name": "Vulture",
     "description": "A grim scavenger of the skies, circling high above deserts in search of carrion.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/110.vulture.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/110_vulture.webp",
     "attributes": [
       { "trait_type": "species", "value": "Bird" },
       { "trait_type": "habitat", "value": "Deserts, Savannah" },
@@ -2222,7 +2219,7 @@
     "tokenId": 111,
     "name": "Hyena",
     "description": "A cackling scavenger of the savannah, its jaws crushing bones with eerie laughter.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/111.hyena.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/111_hyena.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Savannah, Deserts" },
@@ -2241,7 +2238,7 @@
     "tokenId": 112,
     "name": "Jackal",
     "description": "A cunning opportunist of the wild, scavenging and hunting in the twilight hours.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/112.jackal.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/112_jackal.webp",
     "attributes": [
       { "trait_type": "species", "value": "Canine" },
       { "trait_type": "habitat", "value": "Savannah, Deserts" },
@@ -2263,7 +2260,7 @@
     "tokenId": 113,
     "name": "Wolverine",
     "description": "A ferocious mustelid with a fierce bite, tearing through the Arctic wilderness.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/113.wolverine.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/113_wolverine.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Tundra, Forests" },
@@ -2282,7 +2279,7 @@
     "tokenId": 114,
     "name": "Badger",
     "description": "A stout burrower with a fearless streak, digging through earth with powerful claws.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/114.badger.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/114_badger.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -2301,7 +2298,7 @@
     "tokenId": 115,
     "name": "Skunk",
     "description": "A black-and-white trickster with a noxious spray, waddling through forests at dusk.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/115.skunk.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/115_skunk.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Forests, Grasslands" },
@@ -2320,7 +2317,7 @@
     "tokenId": 116,
     "name": "Weasel",
     "description": "A tiny predator with a relentless spirit, slipping through grass in search of prey.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/116.weasel.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/116_weasel.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Grasslands, Forests" },
@@ -2339,7 +2336,7 @@
     "tokenId": 117,
     "name": "Arctic Fox",
     "description": "A ghostly white predator of the tundra, blending into snow with cunning grace.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/117.arctic_fox.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/117_arctic_fox.webp",
     "attributes": [
       { "trait_type": "species", "value": "Canine" },
       { "trait_type": "habitat", "value": "Arctic Tundra" },
@@ -2358,7 +2355,7 @@
     "tokenId": 118,
     "name": "Snow Leopard",
     "description": "A phantom of the Himalayas, its spotted coat blending into rocky cliffs.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/118.snow_leopard.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/118_snow_leopard.webp",
     "attributes": [
       { "trait_type": "species", "value": "Big Cat" },
       { "trait_type": "habitat", "value": "Mountains" },
@@ -2377,7 +2374,7 @@
     "tokenId": 119,
     "name": "Ibex",
     "description": "A mountain goat with curved horns, leaping across sheer cliffs with fearless precision.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/119.ibex.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/119_ibex.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Mountains" },
@@ -2396,7 +2393,7 @@
     "tokenId": 120,
     "name": "Markhor",
     "description": "A majestic goat with spiraled horns, scaling the rugged peaks of Central Asia.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/120.markhor.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/120_markhor.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mammal" },
       { "trait_type": "habitat", "value": "Mountains" },
@@ -2415,7 +2412,7 @@
     "tokenId": 121,
     "name": "Gryphon",
     "description": "A mythical beast with the body of a lion and wings of an eagle, soaring over ancient realms.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/121.gryphon.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/121_gryphon.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Creature" },
       { "trait_type": "habitat", "value": "Legendary Skies" },
@@ -2425,7 +2422,7 @@
       { "trait_type": "speed", "value": "60 mph" },
       { "trait_type": "rarity", "value": "Mythical" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -2434,7 +2431,7 @@
     "tokenId": 122,
     "name": "Phoenix",
     "description": "A fiery bird reborn from ashes, its wings blazing with the light of eternal renewal.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/122.phoenix.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/122_phoenix.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Bird" },
       { "trait_type": "habitat", "value": "Flames of Eternity" },
@@ -2447,7 +2444,7 @@
       { "trait_type": "speed", "value": "100 mph" },
       { "trait_type": "rarity", "value": "Legendary" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -2456,7 +2453,7 @@
     "tokenId": 123,
     "name": "Dragon",
     "description": "A colossal winged serpent with scales of steel, breathing fire over ancient lands.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/123.dragon.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/123_dragon.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Reptile" },
       { "trait_type": "habitat", "value": "Mythical Mountains" },
@@ -2469,7 +2466,7 @@
       { "trait_type": "speed", "value": "80 mph" },
       { "trait_type": "rarity", "value": "Legendary" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -2478,7 +2475,7 @@
     "tokenId": 124,
     "name": "Unicorn",
     "description": "A graceful equine with a shimmering horn, galloping through enchanted forests.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/124.unicorn.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/124_unicorn.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Equine" },
       { "trait_type": "habitat", "value": "Enchanted Forests" },
@@ -2488,7 +2485,7 @@
       { "trait_type": "speed", "value": "50 mph" },
       { "trait_type": "rarity", "value": "Mythical" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -2497,7 +2494,7 @@
     "tokenId": 125,
     "name": "Kraken",
     "description": "A legendary sea monster with tentacles that crush ships, lurking in the ocean's depths.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/125.kraken.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/125_kraken.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Cephalopod" },
       { "trait_type": "habitat", "value": "Deep Oceans" },
@@ -2507,7 +2504,7 @@
       { "trait_type": "speed", "value": "20 mph" },
       { "trait_type": "rarity", "value": "Legendary" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
@@ -2516,7 +2513,7 @@
     "tokenId": 126,
     "name": "Yeti",
     "description": "A towering beast of the Himalayas, its snowy fur hiding it in blizzards.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/126.yeti.webp",
+    "image": "https://static.amyfinance.xyz/collections/creatures/126_yeti.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Primate" },
       { "trait_type": "habitat", "value": "Himalayan Peaks" },
@@ -2529,51 +2526,48 @@
       { "trait_type": "speed", "value": "25 mph" },
       { "trait_type": "rarity", "value": "Mythical" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
   },
   {
     "tokenId": 127,
-    "name": "Chimera",
-    "description": "A monstrous hybrid with a lion's body, goat's head, and serpent tail, breathing fire.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/127.chimera.webp",
+    "name": "Alien Monster",
+    "description": "A mysterious extraterrestrial creature with glowing eyes and otherworldly powers.",
+    "image": "https://static.amyfinance.xyz/collections/creatures/127_alien_monster.webp",
     "attributes": [
-      { "trait_type": "species", "value": "Mythical Hybrid" },
-      { "trait_type": "habitat", "value": "Ancient Ruins" },
+      { "trait_type": "species", "value": "Extraterrestrial" },
+      { "trait_type": "habitat", "value": "Unknown Worlds" },
       {
         "trait_type": "abilities",
-        "value": "Fire Breathing, Multi-Attack, Roaring"
+        "value": "Telepathy, Shape-Shifting, Energy Manipulation"
       },
-      { "trait_type": "diet", "value": "Carnivore" },
-      { "trait_type": "lifespan", "value": "Eternal" },
-      { "trait_type": "speed", "value": "40 mph" },
+      { "trait_type": "diet", "value": "Unknown" },
+      { "trait_type": "lifespan", "value": "Immortal" },
+      { "trait_type": "speed", "value": "Light Speed" },
       { "trait_type": "rarity", "value": "Mythical" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"
   },
   {
     "tokenId": 128,
-    "name": "Sphinx",
-    "description": "A wise guardian with a lion's body and human face, posing riddles in desert sands.",
-    "image": "https://ipfs.io/ipfs/bafybeid4lexivwa6qb3cyt4cxirwsniwcfxzphnqczyuhq3ek5j7rvewxa/128.sphinx.webp",
+    "name": "Baphomet",
+    "description": "A mythical creature symbolizing balance, with a goat's head and a mysterious aura.",
+    "image": "https://static.amyfinance.xyz/collections/creatures/128_baphomet.webp",
     "attributes": [
       { "trait_type": "species", "value": "Mythical Hybrid" },
-      { "trait_type": "habitat", "value": "Desert Temples" },
-      {
-        "trait_type": "abilities",
-        "value": "Riddle Mastery, Strength, Guardianship"
-      },
+      { "trait_type": "habitat", "value": "Occult Realms" },
+      { "trait_type": "abilities", "value": "Mysticism, Balance, Power" },
       { "trait_type": "diet", "value": "Unknown" },
       { "trait_type": "lifespan", "value": "Eternal" },
-      { "trait_type": "speed", "value": "30 mph" },
+      { "trait_type": "speed", "value": "40 mph" },
       { "trait_type": "rarity", "value": "Mythical" }
     ],
-    "external_url": "",
+    "external_url": "N/A",
     "artist": "MythicCreator",
     "collection": "Mythical Beasts",
     "conservation_status": "Not Applicable"

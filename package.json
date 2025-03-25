@@ -4,10 +4,10 @@
   "description": "Deploy JSON Server to Vercel",
   "main": "api/server.js",
   "scripts": {
-    "start-vercel": "json-server db.json",
+    "start-vercel": "json-server ./db/db2.json ./db/db1.json",
     "start": "node api/server.js"
   },
   "dependencies": {
-    "json-server": "0.17.4"
+    "json-server": "workspace:*"
   }
 }
