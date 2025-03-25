@@ -2,11 +2,11 @@
   "name": "json-server-vercel",
   "version": "1.0.1",
   "description": "Deploy JSON Server to Vercel",
-  "main": "api/server.js",
+  "main": "index.js",
   "private": true,
   "scripts": {
     "start": "json-server ./db/db2.json ./db/db1.json",
-    "start-local": "node api/server.js"
+    "start-local": "node index.js"
   },
   "dependencies": {
     "json-server": "workspace:*"
