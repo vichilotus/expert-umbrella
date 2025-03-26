@@ -1,19 +1,7 @@
 // See https://github.com/typicode/json-server#module
-const jsonServer = require("vercel-json-server");
-
+const jsonServer = require("json-server");
 const server = jsonServer.create();
-
-// Uncomment to allow write operations
-// const fs = require('fs')
-// const path = require('path')
-// const filePath = path.join('db.json')
-// const data = fs.readFileSync(filePath, "utf-8");
-// const db = JSON.parse(data);
-// const router = jsonServer.router(db)
-
-// Comment out to allow write operations
-const router = jsonServer.router(["api/db1.json","api/db2.json"]);
-
+const router = jsonServer.router(require("./route.js")());
 const middlewares = jsonServer.defaults();
 
 server.use(middlewares);

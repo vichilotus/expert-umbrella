@@ -5,10 +5,12 @@
   "main": "index.js",
   "private": true,
   "scripts": {
-    "start": "json-server ./db/db2.json ./db/db1.json",
-    "start-local": "node index.js"
+    "start": "npx json-server ./api/db2.json ./api/db1.json",
+    "start-local": "node index.js",
+    "vercel-build": "node api/index.js"
   },
   "dependencies": {
-    "json-server": "workspace:*"
+    "json-server": "npm:vercel-json-server@0.17.6",
+    "vercel-json-server": "workspace:*"
   }
 }
