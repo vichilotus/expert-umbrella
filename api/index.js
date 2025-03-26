@@ -1,5 +1,5 @@
 // See https://github.com/typicode/json-server#module
-const jsonServer = require("vercel-json-server");
+const jsonServer = require("json-server");
 
 const server = jsonServer.create();
 
