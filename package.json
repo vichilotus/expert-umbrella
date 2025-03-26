@@ -6,8 +6,7 @@
   "private": true,
   "scripts": {
     "start": "npx json-server ./api/db2.json ./api/db1.json",
-    "start-local": "node index.js",
-    "vercel-build": "node api/index.js"
+    "start-local": "node index.js"
   },
   "dependencies": {
     "json-server": "npm:vercel-json-server@0.17.6",
